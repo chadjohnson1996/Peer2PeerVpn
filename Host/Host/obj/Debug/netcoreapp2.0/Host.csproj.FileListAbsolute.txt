@@ -1,0 +1,11 @@
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\bin\Debug\netcoreapp2.0\Host.deps.json
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\bin\Debug\netcoreapp2.0\Host.runtimeconfig.json
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\bin\Debug\netcoreapp2.0\Host.runtimeconfig.dev.json
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\bin\Debug\netcoreapp2.0\Host.dll
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\bin\Debug\netcoreapp2.0\Host.pdb
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\obj\Debug\netcoreapp2.0\Host.csprojResolveAssemblyReference.cache
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\obj\Debug\netcoreapp2.0\Host.csproj.CoreCompileInputs.cache
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\obj\Debug\netcoreapp2.0\Host.AssemblyInfoInputs.cache
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\obj\Debug\netcoreapp2.0\Host.AssemblyInfo.cs
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\obj\Debug\netcoreapp2.0\Host.dll
+C:\Users\cjohnson\source\repos\Peer2PeerVpn\Host\Host\obj\Debug\netcoreapp2.0\Host.pdb
